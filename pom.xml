@@ -11,8 +11,12 @@
     <groupId>com.lql</groupId>
     <artifactId>liuquanli</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>liuquanli</name>
     <description>liuquanli</description>
+    <modules>
+        <module>list</module>
+    </modules>
     <properties>
         <java.version>8</java.version>
     </properties>
